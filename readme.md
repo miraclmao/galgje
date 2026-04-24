@@ -19,3 +19,5 @@ Foute letters ❌
 Het spel eindigt wanneer:
 Het woord volledig geraden is (win)
 of je faalt
+
+test
