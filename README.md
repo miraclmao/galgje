@@ -14,8 +14,8 @@ Welke letters al gekozen zijn
 Visuele weergave van het galgmannetje:
 Bij elke fout wordt het mannetje verder “opgehangen”
 Duidelijk verschil tussen:
-Goede letters ✅
-Foute letters ❌
+Goede letters (groen)
+Foute letters (rood)
 Het spel eindigt wanneer:
 Het woord volledig geraden is (win)
 of je faalt
